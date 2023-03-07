@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./input.component.scss']
 })
 export class InputComponent {
-
+value ="Clear me!!!"
 }
